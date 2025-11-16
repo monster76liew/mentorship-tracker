@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mentorship-tracker/static/css/main.92c8d4eb.css",
+    "main.js": "/mentorship-tracker/static/js/main.719eb015.js",
+    "static/js/453.4dafa830.chunk.js": "/mentorship-tracker/static/js/453.4dafa830.chunk.js",
+    "index.html": "/mentorship-tracker/index.html",
+    "main.92c8d4eb.css.map": "/mentorship-tracker/static/css/main.92c8d4eb.css.map",
+    "main.719eb015.js.map": "/mentorship-tracker/static/js/main.719eb015.js.map",
+    "453.4dafa830.chunk.js.map": "/mentorship-tracker/static/js/453.4dafa830.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92c8d4eb.css",
+    "static/js/main.719eb015.js"
+  ]
+}
