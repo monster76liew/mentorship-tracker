@@ -1,51 +1,70 @@
-# 🌱 Mentorship Tracker
+# Getting Started with Create React App
 
-> A gift for my mentor Davis, who showed me that great mentorship deserves great tools.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## 🎯 The Problem
+## Available Scripts
 
-After participating in Microsoft and AWS mentorship programs, I noticed they run "blind" - no visibility into whether mentees are progressing or stuck. My mentor Davis built AWS's program but had no way to track effectiveness.
+In the project directory, you can run:
 
-## 💡 The Solution
+### `npm start`
 
-A lightweight tracker that gives mentors and coordinators visibility without adding admin burden:
-- **For Mentees:** Clear goals, session prep, progress tracking
-- **For Mentors:** Overview of all mentees, engagement signals
-- **For Coordinators:** Program health dashboard, export data
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## 🛠️ Built With
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- React + Next.js
-- Supabase (database + auth)
-- Tailwind CSS
-- Lucide Icons
+### `npm test`
 
-## 🚀 Live Demo
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-[View Demo](your-deployed-link) | [Watch Video](optional-loom-video)
+### `npm run build`
 
-## 📸 Screenshots
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-[Add 3-4 screenshots of different views]
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## 🎓 What I Learned
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-- Building empathetic user experiences
-- Balancing features vs. simplicity
-- Frontend-backend integration
-- User authentication flows
+### `npm run eject`
 
-## 💭 Future Enhancements
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-- Mobile app version
-- AI-powered mentor matching
-- Integration with Slack/Teams
-- Multi-language support
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## 🙏 Inspiration
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-Built with gratitude for my mentor Davis, and all mentors who give their time to guide others.
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
----
+## Learn More
 
-*This project was built in [timeframe] as both a learning exercise and a genuine gift. It's currently used by [X] mentors and [Y] mentees in [program name].*# mentorship-tracker
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
